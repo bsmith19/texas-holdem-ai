@@ -1,0 +1,15 @@
+Settings time_bank 10000
+Settings time_per_move 500
+Settings hands_per_level 10
+Settings starting_stack 2000
+Settings your_bot player1
+Match round 1
+Match small_blind 10
+Match big_blind 20
+Match on_button player1
+player1 stack 2000
+player2 stack 2000
+player1 post 15
+player2 post 30
+player1 hand [3h,7h]
+debug
